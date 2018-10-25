@@ -1,0 +1,26 @@
+nav {
+    background: #3207f0;
+    height: 100%;
+
+    .material-icons.md-48 { font-size: 48px; }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+
+            a {
+                color: #fff;
+                padding: 20px;
+                display: block;
+            }
+
+            .activated {
+                background-color: #00a8ff
+            }
+            
+        }
+    }
+}
